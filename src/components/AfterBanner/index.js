@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Footer = () => {
+const AfterBanner = () => {
   return (
     <div  style={{display:"flex",flexDirection:"column",justifyContent:"center",alignItems:"center",padding:"10px 10px"}}>
     <div style={{width:"1100px",height:"100px",backgroundColor:"red",border:"2px solid red",color:"white",display:"flex",justifyContent:"center",alignItems:"center"}}>
@@ -10,4 +10,4 @@ const Footer = () => {
   )
 }
 
-export default Footer
+export default AfterBanner
